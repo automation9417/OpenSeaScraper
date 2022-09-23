@@ -1,0 +1,172 @@
+﻿{
+  "id": "08da5e32-36ca-43f8-8091-fffc3f577e2b",
+  "name": "sample",
+  "nodes": [
+    {
+      "id": "288b0a17-7ea6-4828-844d-80c15bebb47a",
+      "name": "opensea",
+      "nodes": [],
+      "locators": [
+        {
+          "id": "31ad2bee-bd96-4f83-8d54-fa2ec46b7dd6",
+          "name": "img_okay_bear_1520",
+          "filePath": "41a18611-38d4-4618-bcdb-22955b385262.jpg",
+          "content": {
+            "automationType": "Chrome",
+            "processName": {
+              "value": "chrome"
+            },
+            "filePath": {
+              "value": "chrome.exe"
+            },
+            "version": {
+              "value": "1.3"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "role": {
+                    "value": "window"
+                  },
+                  "title": {
+                    "value": "Okay Bears - Collection | OpenSea"
+                  },
+                  "url": {
+                    "value": "https://opensea.io/collection/okay-bears",
+                    "excluded": true
+                  },
+                  "className": {
+                    "value": "Chrome_WidgetWin_1"
+                  },
+                  "controlMetaType": "Tab"
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "tag": {
+                        "value": "IMG"
+                      },
+                      "ancestorId": {
+                        "value": "main"
+                      },
+                      "ancestorClass": {
+                        "value": "sc-cc7de838-0 sc-cc7de838-1 hiymjI hLMSMF AssetMedia--img",
+                        "excluded": true
+                      },
+                      "isLeaf": {
+                        "value": "1",
+                        "excluded": true
+                      },
+                      "cssSelector": {
+                        "value": "body>div>div>main>div>div>div>div>div>div>div>div>div>div>div>div>div>div>article>a>div>div>div>div>span>img",
+                        "excluded": true
+                      },
+                      "sInfo": {
+                        "value": "Okay Bear #506",
+                        "excluded": true
+                      },
+                      "tableRow": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "tableCol": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "src": {
+                        "value": "https://i.seadn.io/gae/SXYLeAQdhxJOcfCFrbciiZjQxRSNZHlTpoTVIkEv1*"
+                      },
+                      "controlMetaType": "Web",
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "5f76e3fc-a009-41bb-93da-f55cf8933782",
+          "name": "img_okay_bear",
+          "filePath": "738bc585-de03-465c-a94e-b5a79496b8f0.jpg",
+          "content": {
+            "automationType": "Chrome",
+            "processName": {
+              "value": "chrome"
+            },
+            "filePath": {
+              "value": "chrome.exe"
+            },
+            "version": {
+              "value": "1.3"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "role": {
+                    "value": "window"
+                  },
+                  "title": {
+                    "value": "Okay Bears - Collection | OpenSea"
+                  },
+                  "url": {
+                    "value": "https://opensea.io/collection/okay-bears",
+                    "excluded": true
+                  },
+                  "className": {
+                    "value": "Chrome_WidgetWin_1"
+                  },
+                  "controlMetaType": "Tab"
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "tag": {
+                        "value": "IMG"
+                      },
+                      "ancestorId": {
+                        "value": "main"
+                      },
+                      "ancestorClass": {
+                        "value": "sc-cc7de838-0 sc-cc7de838-1 hiymjI hLMSMF AssetMedia--img"
+                      },
+                      "isLeaf": {
+                        "value": "1"
+                      },
+                      "cssSelector": {
+                        "value": "body>div>div>main>div>div>div>div>div>div>div>div>div>div>div>div>div>div>article>a>div>div>div>div>span>img"
+                      },
+                      "sInfo": {
+                        "value": "Okay Bear #*"
+                      },
+                      "tableRow": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "tableCol": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "src": {
+                        "value": "https://i.seadn.io/gae/*"
+                      },
+                      "controlMetaType": "Web",
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "locators": []
+}
